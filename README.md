@@ -8,7 +8,7 @@ Simon Gabay
 * Course 2: [Corpus encoding](https://github.com/gabays/Cours_Basel_2019/blob/master/Corpus_Encoding/Corpus_encoding.md)
 
 ---
-## ELTeC corpora
+## ELTeC corpora
 * [French ELTeC corpus](https://zenodo.org/record/3528337)
 * [German ELTeC corpus](https://zenodo.org/record/3543244)
 * [Italian ELTeC corpus](https://zenodo.org/record/3543333)
