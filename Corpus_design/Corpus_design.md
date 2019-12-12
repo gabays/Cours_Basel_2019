@@ -4,21 +4,21 @@ PDEN 2019
 
 Simon Gabay
 
-11 décembre 2019
+11 décembre
 
 ---
 
 # Corpus Pragmatics
 
 ---
-## A Defintion
+## A Defintion
 
 * Corpus pragmatic approaches typically adopt a quantitative perspective. Research questions often ask about the frequencies of certain elements in specific text samples and, crucially, about differences of these frequencies in different text samples.
 * **a quantitative perspective requires a very solid foundation in the preparation of the data base and in the analysis and categorisation of the data.** (Jucker 2018)
 
 --- 
 ## Typology
-Aarts (2011) proposes a typology_
+Aarts (2011) proposes a typology:
 * _Balanced corpora_ provide a more or less representative mirror image of an entire language
 * _Full-text corpora_ contain one or more complete texts
 * _Parallel corpora_ contain texts of more than one language (or more than one variety of the same language)
@@ -39,6 +39,23 @@ We now also have diachronic balanced corpora
 * the _Early Modern English Medical Texts_ (EMEMT)
 
 ---
+## Representativeness
+
+>“A corpus is thought to be representative of the language variety it is supposed to represent if the findings based on its contents can be generalized to the said language variety” (Leech 1991)
+
+But representativeness is a fluid concept closely related to your research questions
+* A general corpus?
+* A specialised corpus?
+
+**Any claim of corpus representativeness and balance must be interpreted in relative terms**
+
+
+---
+
+![50% center](img/WhatsUp_Corpus.jpg)
+
+---
+
 # European Literary Text Collection (ELTeC)
 ---
 
@@ -119,3 +136,4 @@ We include a variety of lengths
 Pragmatics Manual_, Amsterdam/Philadelphia: John Benjamins, 2011.
 * Andreas H. Jucker, "Corpus pragmatics", _Methods in Pragmatics_. Berlin: De Gruyter, 2018, 455-466. https://doi.org/10.5167/uzh-152158
 * Jucker, Andreas H. and Irma Taavitsainen, "Diachronic corpus pragmatics: Intersections and interactions", _Diachronic Corpus Pragmatics_, 3-26. 
+* Merja Kytö, "Corpora and historical linguistics", _Rev. bras. linguist. apl._ vol.11 no.2 Belo Horizonte, 2011
