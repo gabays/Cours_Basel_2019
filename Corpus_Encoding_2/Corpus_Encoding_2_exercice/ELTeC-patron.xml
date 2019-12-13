@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://github.com/COST-ELTEC/Schemas/raw/master/eltec-0.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://github.com/COST-ELTEC/Schemas/raw/master/eltec-0.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="LETTER0000000" xml:lang="ISO"><!-- @xml:id is a unique combination of letters followed by number. For instance FRA00001 is the first book of the french collection -->
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title of the novel: ELTeC edition</title><!-- >you need to add "ELTeC edition" after the title -->
+            <author>HERE GOES THE NAME OF THE AURHOR</author>
+            <respStmt>
+               <resp>WHAT DID YOU DO? Encode? Transcribe?</resp>
+               <name>PUT YOUR NAME THERE</name>
+            </respStmt>
+         </titleStmt>
+         <extent>
+            <measure unit="">NUMBER OF WORDS</measure>
+         </extent>
+         <publicationStmt>
+            <publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher>
+            <distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor>
+            <date when="YYYY-MM-DD"/> <!-- Date with four digits, month with four digits, day with two digits. For instance: December 13th, 2019 : 2019-12-13 -->
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/"/>
+            </availability>
+            <ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="">
+               <title></title><!-- you need to add "ELTeC edition" after the title -->
+               <author></author>
+               <publisher></publisher>
+               <pubPlace></pubPlace>
+               <date></date>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+     <encodingDesc n=""><!-- eltec-0, eltec-1, eltec-2 -->
+        <p></p>
+     </encodingDesc>
+     <profileDesc>
+        <langUsage>
+           <language ident=""/><!-- Use the following codes: fra, ita, en, deu -->
+        </langUsage>
+        <textDesc>
+           <authorGender xmlns="http://distantreading.net/eltec/ns" key=""></authorGender><!-- F, M, U or X -->
+           <size xmlns="http://distantreading.net/eltec/ns" key=""></size><!-- long, medium or short -->
+           <canonicity xmlns="http://distantreading.net/eltec/ns" key=""></canonicity><!-- high, low or unspecified -->
+           <timeSlot xmlns="http://distantreading.net/eltec/ns" key=""></timeSlot><!-- T1, T2, T3 or T4 -->
+        </textDesc>
+     </profileDesc>
+     <revisionDesc>
+        <change when="YYYY-MM-DD">WHAT DID YOU DO?</change><!-- Date with four digits, month with four digits, day with two digits. For instance: December 13th, 2019 : 2019-12-13 -->
+     </revisionDesc>
+  </teiHeader>
+  <text>
+     <front>
+        <div type="titlepage">
+           <p>EVERYTHING BETWEEN p</p>
+        </div>
+     </front>
+      <body>
+         <div type="chapter">
+            <head>PUT THE TITLE THERE</head>
+            <head>DO NOTE HESITATE TO USE TWO head IF IT IS ON TWO LINES (one with a number, the second with the actual title for instance</head>
+            <p>ADD AS MANY p AS NEEDED
+               use <pb/> when there is a new page
+            </p>
+         </div>
+      </body>
+  </text>
+</TEI>
