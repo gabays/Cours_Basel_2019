@@ -56,7 +56,7 @@ There is a problem!
 ![80% center](img/Oxygen_4.png)
 
 ---
-## TEI
+## ```<TEI>```
 
 ELTeC is a subset of the TEI. It uses less elements, but it is more strict: it requires some information, that is not compulsory in TEI all.
 
