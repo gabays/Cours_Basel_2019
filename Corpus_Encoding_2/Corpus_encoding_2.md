@@ -131,7 +131,7 @@ After ```</profileDesc>``` we need to add:
 </revisionDesc>
 ```
 ---
-Here is the skeleton of a ELTeC document:
+Here is the skeleton of an ELTeC document:
 ```xml
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://github.com/COST-ELTEC/Schemas/raw/master/eltec-0.rng" type="application/xml"
