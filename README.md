@@ -2,6 +2,8 @@
 
 Simon Gabay
 
+website of the intensive course is [here](https://www.unil.ch/doc-digitalstudies/home/menuinst/activites-du-programme/distant-reading-tools-and-methods.html)
+
 ---
 ## Courses
 * Course 1: [Corpus design](https://github.com/gabays/Cours_Basel_2019/blob/master/Corpus_design/Corpus_design.md)
