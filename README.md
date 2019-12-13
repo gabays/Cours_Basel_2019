@@ -8,6 +8,7 @@ website of the intensive course is [here](https://www.unil.ch/doc-digitalstudies
 ## Courses
 * Course 1: [Corpus design](https://github.com/gabays/Cours_Basel_2019/blob/master/Corpus_design/Corpus_design.md)
 * Course 2: [Corpus encoding](https://github.com/gabays/Cours_Basel_2019/blob/master/Corpus_Encoding/Corpus_encoding.md)
+* Course 3: [Corpus encoding 2](https://github.com/gabays/Cours_Basel_2019/blob/master/Corpus_Encoding_2/Corpus_encoding_2.md)
 
 ---
 
